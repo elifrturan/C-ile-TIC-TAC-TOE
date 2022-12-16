@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1648234851 source:c:\users\hp\desktop\projeler\tic tac toe\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1648308241 source:c:\users\hp\desktop\tic tac toe\main.c
+	<stdio.h>
+	<stdlib.h>
+
